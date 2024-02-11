@@ -15,14 +15,6 @@ in accordance with GVSU academic honesty policy.
 
 COMPLETION DATE: 2/11/24
 """
-##### TODO - Phase 7 Checking For Errors
-#
-# CHECK FOR ERRORS:
-# -[✅] incorrect row
-# -[✅] destination MUST be 1of5 cities
-# -[✅] day must be mon-sun
-#
-#########################################################
 
 #CALCULATES COSTS BY
   #DESTINATION
