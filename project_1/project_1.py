@@ -13,6 +13,9 @@ error checks, and outputs a price summary.
 I certify that this code is mine, and mine alone,
 in accordance with GVSU academic honesty policy.
 
+-->GITHUB REPO:
+https://github.com/nbiish/GVSU-spring2024/tree/main/project_1
+
 COMPLETION DATE: 2/11/24
 """
 
