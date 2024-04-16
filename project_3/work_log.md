@@ -18,4 +18,6 @@
 
   - 15min - FINALLY figured out I had the birthday checker out of order for the oldest players test
 
-  
+  - 15min - I keep trying to format the main() into what the suggested results look like and end up going way backwards. 
+
+  - 15min - I think I got the formatting right for main() now. The test pass fro zybooks and I just remembered that the beggining said most people wont win anything and most wins are low payouts.

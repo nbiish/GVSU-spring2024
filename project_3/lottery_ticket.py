@@ -95,7 +95,6 @@ class LotteryTicket:
         return f"{self.get_first()} {self.get_last()}\n{self.get_city()}, {self.get_state()} {self.get_zipcode()}\n{self.get_nums()}   {self.get_mega_ball()}\nPrize: $1.00"
 
 
-
 if __name__ == '__main__':
     t = LotteryTicket("Louis,Laker,Allendale,MI,49401,4/20/1985,5,10,15,20,25,7")
     print(t)
